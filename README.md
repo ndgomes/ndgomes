@@ -3,7 +3,7 @@
 ## 👨🏻‍💻 _About me_
 
 - My name is **Nuno 'frzN' Gomes**.
-- I'm Portuguese and I'm 23 years old. I'm a software development student.
+- I'm Portuguese and I'm 24 years old. I'm a software development student.
 
 ## 🛠 _Tech Stack_
 

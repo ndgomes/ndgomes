@@ -2,8 +2,8 @@
 
 ## 👨🏻‍💻 _About me_
 
-- My name is **Nuno 'frzN' Gomes**.
-- I'm Portuguese and I'm 24 years old. I'm a software development student.
+- My name is **Nuno Gomes**.
+- I'm Portuguese and I'm 24 years old. I'm a ReactJS developer.
 
 ## 🛠 _Tech Stack_
 

@@ -19,5 +19,3 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-000?&logo=adobe-photoshop)
-
-<img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frznDev&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=fff&icon_color=fff&bg_color=000&theme=graywhite" /></a>

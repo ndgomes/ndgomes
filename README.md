@@ -18,4 +18,5 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
-![Photoshop](https://img.shields.io/badge/-Photoshop-000?&logo=adobe-photoshop)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)

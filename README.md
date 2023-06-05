@@ -4,7 +4,8 @@
 
 - My name is **Nuno Gomes**.
 - I'm Portuguese and I'm 25 years old. I'm a ReactJS developer.
-- Dedicated, fascinated by new technologies, especially in Web and Mobile environment. I enjoy teamwork, always available to help and grow through knowledge sharing.
+- Dedicated, fascinated by new technologies, especially in Web and Mobile environment. 
+- I enjoy teamwork, always available to help and grow through knowledge sharing.
 
 ## 🛠 _Tech Stack_
 

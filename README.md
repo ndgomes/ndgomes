@@ -1,4 +1,4 @@
-# **Welcome to my GitHub profile**
+# **Welcome to my GitHub profile** ![](https://komarev.com/ghpvc/?username=ndgomes)
 
 ## 👨🏻‍💻 _About me_
 

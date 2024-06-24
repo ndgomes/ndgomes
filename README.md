@@ -3,7 +3,7 @@
 ## 👨🏻‍💻 _About me_
 
 - My name is **Nuno Gomes**.
-- I'm Portuguese and I'm 26 years old. I'm a ReactJS developer.
+- I'm Portuguese and I'm 26 years old. I'm a JavaScript developer.
 - Coding Lover 💚.
 
 ## 🛠 _Tech Stack_

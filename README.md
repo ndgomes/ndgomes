@@ -1,4 +1,4 @@
-# **welcome to my github profile** ![](https://komarev.com/ghpvc/?username=ndgomes&abbreviated=true&base=400)
+# **welcome to my github profile** ![](https://komarev.com/ghpvc/?username=ndgomes&abbreviated=true)
 
 - my name is **Nuno Gomes**.
 - coding lover 💚.
